@@ -10,10 +10,13 @@ grid.linewidth: 0.5
 # Figure
 figure.figsize: 4, 3
 figure.frameon: False
-figure.constrained_layout.use
+figure.autolayout: True
 
 # Colors
-axes.prop_cycle: cycler('color', ['333333', '666666', '7a8d9a', '515c7b', '8c6555', 'beb0df', 'efc693', 'd34b01', 'dd8062', 'c6f1de', '54e415', '6491f4', '6052ed'])
+axes.prop_cycle: cycler('color', ['111111', '999999', '7a8d9a', '515c7b', '8c6555', 'beb0df', 'efc693', 'd34b01', 'dd8062', 'c6f1de', '54e415', '6491f4', '6052ed'])
 
 # Figures saved
 savefig.bbox: tight
+
+# Legends
+legend.fontsize: small

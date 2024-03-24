@@ -13,3 +13,6 @@ An example of the plot:
 
 
 ![example-2](matplotlib/example-2.png)
+
+
+![example-3](matplotlib/example-3.png)
